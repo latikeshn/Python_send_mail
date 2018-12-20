@@ -1,0 +1,5 @@
+Dear ${PERSON_NAME}, 
+
+This is latikesh!
+This is a test mail along with an attachment send by using Python.
+Have a great day!!!
